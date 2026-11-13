@@ -219,6 +219,9 @@ predict_image(model,image_index=25,dataset=test_dataset)
 ### New Sample Data Prediction
 
 <img width="442" height="463" alt="444039309-cb02ea61-8425-434b-b584-5fa354e01bef" src="https://github.com/user-attachments/assets/d813599a-db18-4187-b516-6afe7fbeaaaa" />
+
+
+
 <img width="454" height="483" alt="444039370-1164f9df-21b1-4758-9c68-6b008a987fe2" src="https://github.com/user-attachments/assets/3eea66f8-71b2-460e-9be6-163bf1ccec1e" />
 
 
